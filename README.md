@@ -6,7 +6,7 @@ I'm a Computer Science student passionate about software development, open-sourc
 
 - 🔭 Currently exploring **Distributed Systems and Cloud Native Technologies**
 - 🌱 Learning **System Design, Backend Development, and DSA**
-- 👯 Interested in contributing to **CNCF and other open-source projects**
+- 👯 Interested in contributing to **open-source projects**
 - 💻 Experienced with **C++, Go, Python, JavaScript**
 - 🎯 Working towards becoming a Software Development Engineer
 
